@@ -27,15 +27,26 @@ https://github.com/craigmckeachie/microblog
 
 ## account/profile.html
 - GET /api/users/{username}
+- DO NOT create POST here even though the PDF says to do it, do it in `posts/posts-create.html`
+- if you tackle the `account/profile-edit.html (stretch goal)` you will need a button (`<a class="btn btn-primary">) or link on this page to go to the edit page and you will pass the user id in the querystring
 
 ## account/profile-edit.html (stretch goal)
 - Update user's biography
   - /api/users/{username}
 
+
 ## index.html 
     - home/landing
     - in the original starter project (not the one you are using) this page also had the login form
 
+## posts/posts.html
+- GET /api/posts
+- consider using Bootstrap lists to display posts (or cards?)
+    - https://getbootstrap.com/docs/5.3/components/list-group/
 
+## posts/posts-create.html
+- POST /api/posts
+- should contain a form with a `<textarea>` (like input type="text") 
+- a button to create the "post"   
 
 
