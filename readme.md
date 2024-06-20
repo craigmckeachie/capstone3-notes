@@ -17,12 +17,12 @@ https://github.com/craigmckeachie/microblog
 
 1. Create a capstone3 folder (in your LearnToCode/capstones folder).
 2. Open a gitbash on Windows or Mac Terminal in the capstone3 folder
-3. In your terminal: 
+3. In your terminal:
+
 ```
    # Make sure you are in the capstone3 folder
-   npm install -g degit
-   degit https://github.com/craigmckeachie/microblog
-   ```
+  npx degit https://github.com/craigmckeachie/microblog
+```
 
 4. Open the capstone3 folder or the microblog folder in VS Code
 
