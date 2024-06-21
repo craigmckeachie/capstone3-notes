@@ -104,7 +104,7 @@ See `profile/auth.js` for an example of how to redirect
     be redirected to the Login page instead of being shown user content.
 - Provide a link to the Profile page.
 - Include a working Logout button.
-  A function will be provided for you.
+  A function will be provided for you in `profile\auth.js`.
 - Display posts from all users. You will need to perform a request to the MicroblogLite API to get all posts
 - Each post should display its content, author, and timestamp. This will require a
   request.
@@ -124,7 +124,7 @@ See `profile/auth.js` for an example of how to redirect
 - Request the user that is logged and display their information including their bio
 - Provide a link to the Posts page.
 - Include a working Logout button.
-  - A function to do this is already done in profile\auth.js
+  - A function to do this is already done in `profile\auth.js`
 - Include a link to an edit profile page (stretch)
 
 ## Edit Profile (stretch goal)
