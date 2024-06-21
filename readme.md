@@ -127,7 +127,9 @@ See `profile/auth.js` for an example of how to redirect
   - A function to do this is already done in profile\auth.js
 - Include a link to an edit profile page (stretch)
 
-## Edit Profile
+## Edit Profile (stretch goal)
 
 - Prominently feature a form to edit the user's bio including a button to save it
 - When the button is clicked save the updated user information
+
+## Delete Post (stretch goal)
