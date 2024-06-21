@@ -21,7 +21,7 @@ https://github.com/craigmckeachie/microblog
 
 ```
    # Make sure you are in the capstone3 folder
-  npx degit https://github.com/craigmckeachie/microblog
+  npx degit https://github.com/craigmckeachie/microblog microblog
 ```
 
 4. Open the capstone3 folder or the microblog folder in VS Code
